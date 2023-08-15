@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Smartphone",
+    "type": "electronics",
+    "price": 599.99
+  },
+  {
+    "id": 2,
+    "name": "Laptop",
+    "type": "electronics",
+    "price": 1099.99
+  },
+  {
+    "id": 3,
+    "name": "Running Shoes",
+    "type": "clothing",
+    "price": 89.99
+  },
+  {
+    "id": 4,
+    "name": "T-shirt",
+    "type": "clothing",
+    "price": 19.99
+  },
+  {
+    "id": 5,
+    "name": "The Lord of the Rings: The Fellowship of the Ring",
+    "type": "books",
+    "price": 14.99
+  }
+]
